@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<a href="https://xio1016.site" target="_blank"><img src="https://img.shields.io/badge/Arlo-49B48A?style=flat-square&logo=Arlo&logoColor=white"/></a>
+<a href="https://xio1016.site" target="_blank"><img src="https://img.shields.io/badge/블로그-10A0CC?style=flat-square&logo=Arlo&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/dhthdrud@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <!--
 **XIO1016/XIO1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

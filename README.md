@@ -1,7 +1,9 @@
-### Hi there 👋
+### 안녕하세요 개발자 XIO입니다! 👋
 
-<a href="https://xio1016.site" target="_blank"><img src="https://img.shields.io/badge/블로그-10A0CC?style=flat-square&logo=Arlo&logoColor=white"/></a>
+<a href="https://xio1016.site" target="_blank"><img src="https://img.shields.io/badge/BLOG-10A0CC?style=flat-square&logo=Arlo&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/dhthdrud@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XIO1016&show_icons=true&theme=radical)
 
 <!--
 **XIO1016/XIO1016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
